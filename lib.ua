@@ -47,4 +47,5 @@ MakeGraph ← (
   &rb ∞
   ◌°img
   &ims
+  &fde ".gvtmp"
 )
