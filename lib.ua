@@ -46,3 +46,4 @@ MakeGraph ← (
   &ims◌°img&rb∞⋅⊙◌
   &fde ".gvtmp"
 )
+GV = MakeGraph
