@@ -20,7 +20,7 @@ MatchBox    ↚ =@□
 MatchChar   ↚ +⊸≡↻₋₁=@@
 MatchColors ↚ ˜⊏⊙(/↥[⊃(×₄MatchString|×₃MatchChar|×₂MatchDigit|MatchBox)])÷₂₅₆≡⧈₂⌞⋕₁₆
 LayoutCode  ↚ ×⊃(layout!(°⊸Color White)|≡▽×3/5⟜▽⊙(⧋˜⊂1MatchColors ["d1daec" "95d16a" "f08050" "20f9fc" "20f9fc"]))
-FmtObj      ↚ ⍡(▽₂˜÷100/↥⊸△₂ ⍩°1_1≥20⊸△₂⍩⍤"Bad rank"∊2_3⧻⊸△⍩°0⊸type|LayoutCode 20 pretty)
+FmtObj      ↚ ⍡(▽₂˜÷100/↥⊸△₂ ⍩°1_1≥20⊸△₂⍩⍤"Bad rank"∊2_3_4⧻⊸△⍩°0⊸type|LayoutCode 20 pretty)
 
 FormatMap      ↚ $"_ [shape=none, label=<<TABLE CELLBORDER=\"0\" ROWS=\"*\" CELLSPACING=\"0\" STYLE=\"ROUNDED\">_</TABLE>>];" ⊙(/$"__"⍚$"<TR><TD PORT= \"_\"><IMG SRC=\"_\"/></TD></TR>"⟜⍚(⟜&fwa $".gvtmp/_.png")⊃(GenUniqueNames|⍚(img"png"FmtObj $_))⊙◌⍩°map)
 FormatBoxArray ↚ $"_ [shape=Mrecord, label=\"_\"];" ⊙(/$"_ | _"⍚$"<_> _"⊃GetNamesGeneric GetLabelsGeneric)
